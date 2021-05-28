@@ -5,6 +5,7 @@ RENCANA BELAJAR DANA IRWANDA
   * Dasar HTML
     ^ Tabel
 - Belajar CSS
+  ^ CSS3
   ^ Bootstrap
 - Belajar GIT
 - Belajar PHP
