@@ -3,6 +3,10 @@ RENCANA BELAJAR DANA IRWANDA
 - Belajar HTML
   * Pengertian
   * Dasar HTML
+    ^ Tabel
 - Belajar CSS
+  ^ CSS3
+  ^ Bootstrap
 - Belajar GIT
 - Belajar PHP
+- Belajar Javascript
