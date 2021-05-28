@@ -1,7 +1,6 @@
 RENCANA BELAJAR DANA IRWANDA
 
 - Belajar HTML
-  * Pengertian
   * Dasar HTML
     ^ Tabel
 - Belajar CSS
